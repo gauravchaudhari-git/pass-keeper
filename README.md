@@ -14,11 +14,10 @@ Vite: For a fast development experience with hot module replacement.
 Backend: Node.js: JavaScript runtime for executing server-side code.
 <br>
 Express: Web framework for building APIs and handling server-side logic.
-Database:
-
-MongoDB: NoSQL database for storing encrypted user data.
+<br>
+Database: MongoDB: NoSQL database for storing encrypted user data.
+<br>
 Other Tools:
-
 Postman: For testing and integrating APIs.
 React Toastify: Optional plugin for displaying email notifications or alerts to users.
 Installation Prerequisites
