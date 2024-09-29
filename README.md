@@ -1,13 +1,11 @@
 ### PassKeeper - Password Manager
-Your Password Manager Web Application, Passkeeper, sounds like a robust project! Here’s a detailed breakdown of your overview, tech stack, installation instructions, and some additional considerations that could enhance your application:
 
 Passkeeper - Password Manager Web Application
 Overview
 The Passkeeper Password Manager Web Application is a secure and user-friendly tool designed to help users store, manage, and retrieve passwords for their various online accounts safely and efficiently.
-
+<br> <br>
 Tech Stack
 Frontend:
-
 HTML, CSS, JavaScript: Core web technologies for building user interfaces.
 React: For building dynamic and responsive user interfaces.
 Vite: For a fast development experience with hot module replacement.
