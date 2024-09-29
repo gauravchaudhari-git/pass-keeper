@@ -20,9 +20,10 @@ Database: MongoDB: NoSQL database for storing encrypted user data.
 Other Tools:
 Postman: For testing and integrating APIs.
 React Toastify: Optional plugin for displaying email notifications or alerts to users.
+<br>
 Installation Prerequisites
 Before you begin, ensure you have the following installed:
-
+<br>
 Node.js (v14+)
 MongoDB (for local development or use cloud-based MongoDB Atlas)
 
