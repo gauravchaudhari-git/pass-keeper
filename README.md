@@ -69,10 +69,8 @@ Testing:
 Implement unit tests for both frontend and backend using testing frameworks like Jest for React and Mocha/Chai for Node.js.
 Deployment:
 
-#video
-
-
-https://github.com/user-attachments/assets/d183cd8b-051d-4d72-a4c2-0d4a2f57609a
+### Deployed on Vercel
+https://pass-keeper-cyan.vercel.app/
 
 
 
